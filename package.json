@@ -1,0 +1,26 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "[![Actions Status](https://github.com/VladyBarvy/js-oop-project-62/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/VladyBarvy/js-oop-project-62/actions)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladyBarvy/js-oop-project-62.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VladyBarvy/js-oop-project-62/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/VladyBarvy/js-oop-project-62#readme",
+  "dependencies": {
+    "yup": "^1.3.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
